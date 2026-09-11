@@ -1,0 +1,13 @@
+metric,unit,min_value,max_value,value_type
+temperature,C,-20,80,float
+humidity,%,0,100,float
+co2,ppm,300,5000,float
+power_w,W,0,10000,float
+voltage,V,180,260,float
+current_a,A,0,100,float
+door_state,bool,0,1,int
+motion,bool,0,1,int
+vibration,mm/s,0,20,float
+latency_ms,ms,0,5000,float
+packet_loss,%,0,100,float
+battery_level,%,0,100,float
