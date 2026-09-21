@@ -1,0 +1,13 @@
+device_type,metric
+climate_sensor,temperature
+climate_sensor,humidity
+climate_sensor,co2
+smart_meter,power_w
+smart_meter,voltage
+smart_meter,current_a
+access_controller,door_state
+access_controller,motion
+industrial_sensor,vibration
+industrial_sensor,temperature
+network_gateway,latency_ms
+network_gateway,packet_loss
